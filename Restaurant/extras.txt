@@ -1,0 +1,12 @@
+<div class="vertical-bar">
+        <div class="search-icon">
+             <i class="fa fa-list"></i>
+            <i class="fa fa-search"></i>
+            </div>
+        <div class="social icons">
+            <i class="fa fa-facebook"></i>
+            <i class="fa fa-instagram"></i>
+            <i class="fa fa-twitter"></i>
+            <i class="fa fa-pinterest"></i>
+        </div>
+        </div>
